@@ -6,3 +6,9 @@
 ###### Header 6
 
 ![Image of The Greatest Instant Noodle of All Time](https://m.media-amazon.com/images/I/81ndyojrxhL._AC_UF894,1000_QL80_.jpg)
+
+``` javascript
+public static void main (){
+  System.out.println("hello");
+}
+```
