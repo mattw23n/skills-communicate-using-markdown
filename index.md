@@ -12,3 +12,8 @@ public static void main (){
   System.out.println("hello");
 }
 ```
+
+- [x] wake up
+- [x] cold shower
+- [ ] mew
+- [ ] sleep
